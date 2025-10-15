@@ -9,7 +9,7 @@ public class Example {
             System.out.println("The value of b is: " + b);
     }
 
-    public static int newNumber(int number) {
+    public  int newNumber(int number) {
         System.out.println("This is a new method,we will add new number to it");
         number += 10;
         return number;
