@@ -6,6 +6,7 @@ public class Example {
             System.out.println("Hello, World! " + name + " " + a);
             System.out.println("This is an example file.");
             int b =20;
+            System.out.println("The value of b is: " + b);
     }
 
 
