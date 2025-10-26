@@ -18,7 +18,10 @@ public class Example {
 
      public void newFeature() {
         System.out.println("This is a new feature added to the class.");
+        System.out.println("fetaure b");
 }
-
+static void sampleStaticMethod() {
+        System.out.println("This is a static method added to the class.");
+    } 
 
 }
